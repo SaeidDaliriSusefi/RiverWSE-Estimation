@@ -1,4 +1,4 @@
-# 🌍 River Cross-Section Water Surface Elevation Analysis using ICESat-2 Altimetry Data
+# 🌍 River Water Surface Elevation Analysis using ICESat-2 Altimetry Data
 
 This repository provides a complete Python-based tool for analyzing river cross-sections using ICESat-2 ATL03 photon height data. The main objective is to estimate the Water Surface Elevation (WSE) and river width along a selected cross-section by applying robust filtering, statistical modeling, and visual
 
