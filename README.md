@@ -2,4 +2,4 @@
 
 ## 📸 Example Outputs
 
-![image alt](https://github.com/SaeidDaliriSusefi/RiverWSE-Estimation/blob/c62a8886ab09fd839aca38c854f321add1c405fe/Images/River_.png)
+![image alt](https://github.com/SaeidDaliriSusefi/RiverWSE-Estimation/blob/528340e630f5e7da19ba79bd929f39f5e8a8685c/Images/River_.png)
