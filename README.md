@@ -4,7 +4,7 @@ This repository provides a complete Python-based tool for analyzing river cross-
 
 ## 📸 Example Outputs
 
-![image alt](https://github.com/SaeidDaliriSusefi/RiverWSE-Estimation/blob/e3f9595084c16ef02e258e8cd3c0a8841ba64bf1/Images/River__.png)
+![image alt](https://github.com/SaeidDaliriSusefi/RiverWSE-Estimation/blob/3f5a320f5d883b08aca8b4a6ecac244c938c7b31/Images/Cross_Section121.png)
 
 ## Features
 📐 Automatic orientation detection: Determines whether the cross-section is aligned north–south or east–west.
